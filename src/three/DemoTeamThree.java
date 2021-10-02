@@ -3,11 +3,10 @@ package three;
 public class DemoTeamThree {
 
 	
-
 public static void main (String [] args) {
 		
 		System.out.println("Demo Team Three");
-			
+		System.out.println("Demo Team Tatiana");
 	}
 
 
@@ -30,9 +29,5 @@ public static void main (String [] args) {
 		
 		System.out.println(e-f-g);
 
-
 	}
-	
-
-
 }
