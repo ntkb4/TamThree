@@ -1,10 +1,6 @@
 package three;
 
 public class DemoTeamThree {
-	public static void addNum(int a, int b, int c) {
-		System.out.println(a + b + c);
-		
-	}
 	
 	public static void teamMembers() {
 		
@@ -29,4 +25,8 @@ public class DemoTeamThree {
 		System.out.println(" Welcome to the group");
 		
 	}
+		public static void Dog(int one , int two, int three) {	
+			System.out.println( one + two + three);
+		}
+	
 }
