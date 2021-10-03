@@ -5,6 +5,7 @@ public class DemoTeamThree {
 		System.out.println(a + b + c);
 		
 	}
+	//Sorry guys somehow I was trying to push some code to github and the it ended up the code has been changed -AF
 	
 	public static void teamMembers() {
 		
